@@ -1,0 +1,17 @@
+@import './variables.scss';
+
+:root {
+    //page
+    --page-background: #{$white};
+    --page-out-background: #{$softGrey};
+
+    //section
+    --section-border: #{$grey};
+
+    //sidebar
+    --sidebar-border: #{$lightGrey};
+
+    //layout
+    --block-height: #{$blockHeight};
+    --scroll-height: #{$scrollHeight};
+}

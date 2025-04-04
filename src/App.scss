@@ -1,0 +1,12 @@
+@import '../src/assets/styles/css_variables';
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--page-out-background);
+    margin: 0;
+    overflow-y: auto;
+    font-family: sans-serif;
+}
